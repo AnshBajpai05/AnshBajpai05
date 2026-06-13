@@ -8,14 +8,14 @@
 > *An emotionally-aware desktop companion for developers.*
 
 <p align="center">
-  <img src="./assets/hearthmon-status.svg?v=1781372856" width="750"/>
+  <img src="./assets/hearthmon-status.svg?v=1781372920" width="750"/>
 </p>
 
 <div align="center">
 
-**Current Companion:** Blissey  
-**Mood:** Quietly Building  
-**Status:** *"that bug never stood a chance."*
+**Current Companion:** Minior Red Meteor<br/>
+**Mood:** Quietly Building<br/>
+**Status:** *"that bug never stood a chance."*<br/>
 
 </div>
 
