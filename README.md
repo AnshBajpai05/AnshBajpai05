@@ -8,7 +8,7 @@
 > *An emotionally-aware desktop companion for developers.*
 
 <p align="center">
-  <img src="./assets/hearthmon-status.svg?v=1781372657" width="750"/>
+  <img src="./assets/hearthmon-status.svg?v=1781372680" width="750"/>
 </p>
 
 <div align="center">
@@ -50,4 +50,3 @@ Instead, it:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
