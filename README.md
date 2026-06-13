@@ -8,13 +8,13 @@
 > *An emotionally-aware desktop companion for developers.*
 
 <p align="center">
-  <img src="./assets/hearthmon-status.svg?v=1781372795" width="750"/>
+  <img src="./assets/hearthmon-status.svg?v=1781372856" width="750"/>
 </p>
 
 <div align="center">
 
-**Current Companion:** Blissey
-**Mood:** Quietly Building
+**Current Companion:** Blissey  
+**Mood:** Quietly Building  
 **Status:** *"that bug never stood a chance."*
 
 </div>
