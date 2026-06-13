@@ -8,14 +8,14 @@
 > *An emotionally-aware desktop companion for developers.*
 
 <p align="center">
-  <img src="./assets/hearthmon-status.svg?v=1781375343" width="750"/>
+  <img src="./assets/hearthmon-status.svg?v=1781375582" width="750"/>
 </p>
 
 <div align="center">
 
 **Current Companion:** Greninja<br/>
-**Mood:** Quietly Building<br/>
-**Status:** *"that bug never stood a chance."*<br/>
+**Mood:** Late Night Coding<br/>
+**Status:** *"late one tonight"*<br/>
 
 </div>
 
