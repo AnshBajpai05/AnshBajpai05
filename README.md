@@ -8,12 +8,12 @@
 > *An emotionally-aware desktop companion for developers.*
 
 <p align="center">
-  <img src="./assets/hearthmon-status.svg?v=1781375582" width="750"/>
+  <img src="./assets/hearthmon-status.svg?v=1781375725" width="750"/>
 </p>
 
 <div align="center">
 
-**Current Companion:** Greninja<br/>
+**Current Companion:** Mewtwo<br/>
 **Mood:** Late Night Coding<br/>
 **Status:** *"late one tonight"*<br/>
 
