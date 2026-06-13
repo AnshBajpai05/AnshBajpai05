@@ -8,7 +8,7 @@
 > *An emotionally-aware desktop companion for developers.*
 
 <p align="center">
-  <img src="./assets/hearthmon-status.svg?v=1781375220" width="750"/>
+  <img src="./assets/hearthmon-status.svg?v=1781375236" width="750"/>
 </p>
 
 <div align="center">
