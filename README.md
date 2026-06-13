@@ -8,12 +8,12 @@
 > *An emotionally-aware desktop companion for developers.*
 
 <p align="center">
-  <img src="./assets/hearthmon-status.svg?v=1781373209" width="750"/>
+  <img src="./assets/hearthmon-status.svg?v=1781373365" width="750"/>
 </p>
 
 <div align="center">
 
-**Current Companion:** Brionne<br/>
+**Current Companion:** Greninja<br/>
 **Mood:** Quietly Building<br/>
 **Status:** *"that bug never stood a chance."*<br/>
 
