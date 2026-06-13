@@ -8,14 +8,14 @@
 > *An emotionally-aware desktop companion for developers.*
 
 <p align="center">
-  <img src="./assets/hearthmon-status.svg?v=1781371981" width="750"/>
+  <img src="./assets/hearthmon-status.svg?v=1781372657" width="750"/>
 </p>
 
 <div align="center">
 
-**Current Companion:** Lucario 🥋  
-**Mood:** Quietly Building  
-**Status:** *"That bug never stood a chance."*
+**Current Companion:** Blissey
+**Mood:** Quietly Building
+**Status:** *"that bug never stood a chance."*
 
 </div>
 
@@ -50,5 +50,4 @@ Instead, it:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
