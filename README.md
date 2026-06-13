@@ -8,14 +8,14 @@
 > *An emotionally-aware desktop companion for developers.*
 
 <p align="center">
-  <img src="./assets/hearthmon-status.svg?v=1781381832" width="750"/>
+  <img src="./assets/hearthmon-status.svg?v=1781419543" width="750"/>
 </p>
 
 <div align="center">
 
-**Current Companion:** Mewtwo<br/>
-**Mood:** Late Night Coding<br/>
-**Status:** *"late one tonight"*<br/>
+**Current Companion:** Abomasnow<br/>
+**Mood:** Quietly Building<br/>
+**Status:** *"quietly building"*<br/>
 
 </div>
 
