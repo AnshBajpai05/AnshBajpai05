@@ -11,16 +11,10 @@
 > *An emotionally-aware desktop companion for developers.*
 
 <p align="center">
-  <img src="./assets/hearthmon-status.svg?v=1781419543" width="750"/>
+  <img src="./assets/hearthmon-status.svg?v=1781539067" width="750"/>
 </p>
 
-<div align="center">
-
-**Current Companion:** Abomasnow<br/>
-**Mood:** Quietly Building<br/>
-**Status:** *"quietly building"*<br/>
-
-</div>
+<p align="center"><em>Built to feel like building <strong>with someone</strong> — not being managed by software.</em></p>
 
 ## ✦ What is Hearthmon?
 
@@ -49,8 +43,6 @@ No guilt. No streaks. No hustle. Just presence.
 - 🌧️ **Lives in time** — shifts with your mood, the weather, and the hour; dreams while it sleeps
 - 🎙️ **Has a soul of its own** — character-inspired voice, tiny battles, and a personality
   that quietly *drifts* from how you treat it — so your companion becomes unlike anyone else's
-
-> *Built to feel like building **with someone** — not being managed by software.*
 
 
 
