@@ -11,10 +11,18 @@
 > *An emotionally-aware desktop companion for developers.*
 
 <p align="center">
-  <img src="./assets/hearthmon-status.svg?v=1781539067" width="750"/>
+  <a href="https://github.com/AnshBajpai05/Hearthmon---You-Dont-Build-Alone">
+    <img src="./assets/hearthmon-status.svg?v=1781539067" width="750"/>
+  </a>
 </p>
 
 <p align="center"><em>Built to feel like building <strong>with someone</strong> — not being managed by software.</em></p>
+
+<p align="center">
+  <a href="https://github.com/AnshBajpai05/Hearthmon---You-Dont-Build-Alone/stargazers"><img src="https://img.shields.io/github/stars/AnshBajpai05/Hearthmon---You-Dont-Build-Alone?style=social" alt="Star Hearthmon"/></a>
+</p>
+
+<p align="center"><strong><a href="https://github.com/AnshBajpai05/Hearthmon---You-Dont-Build-Alone">★ Liked it? Star Hearthmon</a></strong> — the quiet way to say <em>"stay."</em></p>
 
 ## ✦ What is Hearthmon?
 
