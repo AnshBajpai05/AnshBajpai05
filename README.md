@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/AnshBajpai05/Hearthmon---You-Dont-Build-Alone">
-    <img src="./assets/hearthmon-status.svg?v=1781539067" width="750"/>
+    <img src="./assets/hearthmon-status.svg?v=1781542650" width="750"/>
   </a>
 </p>
 
