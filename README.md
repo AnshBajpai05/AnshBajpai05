@@ -41,6 +41,7 @@ No guilt. No streaks. No hustle. Just presence.
 - ⛏️ **Stays alongside the work** — git commits, long-running projects, even ML training runs
 - 📖 **Remembers what mattered** — milestones, hard seasons, the day you shipped something real
 - 🌧️ **Lives in time** — shifts with your mood, the weather, and the hour; dreams while it sleeps
+- 🎵 **Vibes with your music** — subtly reacts to your system audio with gentle bobs and beat pulses (opt-in, no audio recorded)
 - 🎙️ **Has a soul of its own** — character-inspired voice, tiny battles, and a personality
   that quietly *drifts* from how you treat it — so your companion becomes unlike anyone else's
 
