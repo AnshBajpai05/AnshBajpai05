@@ -16,6 +16,35 @@
 
 <p align="center"><em>Built to feel like building <strong>with someone</strong> — not being managed by software.</em></p>
 
+## 🚀 Try the Early Builder Beta
+
+Hearthmon is currently in **active testing** — the final version is still evolving.
+
+If you'd like to try the current Early Builder build:
+
+### 👉 Download the Beta
+
+**Beta Repo:**
+[Hearthmon Trial Beta](https://github.com/AnshBajpai05/Hearthmon-Trial_Beta?utm_source=chatgpt.com)
+
+### Windows may show:
+
+> **"Windows protected your PC"**
+
+That's expected for unsigned indie apps.
+
+Click:
+
+```text
+More info → Run anyway
+```
+
+(Windows shows this because Hearthmon isn't code-signed yet — not because it's unsafe.)
+
+⚠️ **This is a testing phase build** — expect bugs, rough edges, and fast updates while Hearthmon grows.
+
+
+
 ## ✦ What is Hearthmon?
 
 **The companion that quietly stays while you build hard things.**
