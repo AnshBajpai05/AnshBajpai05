@@ -18,16 +18,16 @@
 
 ## 🚀 Try the Early Builder Beta
 
-Hearthmon is currently in **active testing** — the final version is still evolving.
+Hearthmon is currently in an **active testing phase** — the final experience is still evolving.
 
-If you'd like to try the current Early Builder build:
+If you'd like to try Hearthmon early and help shape what it becomes:
 
 ### 👉 Download the Beta
 
-**Beta Repo:**
+**Early Builder Build:**
 [Hearthmon Trial Beta](https://github.com/AnshBajpai05/Hearthmon-Trial_Beta?utm_source=chatgpt.com)
 
-### Windows may show:
+### 🛡️ Windows may show:
 
 > **"Windows protected your PC"**
 
@@ -41,38 +41,23 @@ More info → Run anyway
 
 (Windows shows this because Hearthmon isn't code-signed yet — not because it's unsafe.)
 
-⚠️ **This is a testing phase build** — expect bugs, rough edges, and fast updates while Hearthmon grows.
+### 💛 Help Shape Hearthmon
 
+This is an **Early Builder Preview** — bugs, rough edges, and weird moments are expected while Hearthmon grows.
 
+If you:
 
-## ✦ What is Hearthmon?
+* 🐞 **found a bug**
+* ✨ **have an idea**
+* 💭 **want to discuss something**
+* 💛 **had a moment that felt strangely comforting**
 
-**The companion that quietly stays while you build hard things.**
+please open a GitHub Issue:
 
-A Pokémon that lives in the corner of your screen while you code — but it's
-not a pet that begs for attention, and it's definitely not another productivity
-tracker. The unusual part:
+👉 **Issues & Feedback:**
+[Hearthmon Issues & Discussion](https://github.com/AnshBajpai05/Hearthmon/issues?utm_source=chatgpt.com)
 
-> **it notices *how* you build, not just *that* you did.**
-
-It feels the texture of a session. It goes quiet when you drop into flow, sits a
-little closer when you've been wrestling the same bug for an hour, and celebrates
-the commit that *finally cracked it* — not the typo-fix. It remembers the seasons
-you lived through — the late nights, the projects you stuck with — and brings them
-back, gently, weeks later. It even keeps watch while your model trains.
-
-No guilt. No streaks. No hustle. Just presence.
-
-### What it does
-- 🌱 **Quiet presence** — lives beside you; never nags, never shames, never breaks focus
-- 🧠 **Notices the process** — flow · friction · breakthrough, inferred from privacy-safe
-  signals (never your keystrokes, screen, or code)
-- ⛏️ **Stays alongside the work** — git commits, long-running projects, even ML training runs
-- 📖 **Remembers what mattered** — milestones, hard seasons, the day you shipped something real
-- 🌧️ **Lives in time** — shifts with your mood, the weather, and the hour; dreams while it sleeps
-- 🎵 **Vibes with your music** — subtly reacts to your system audio with gentle bobs and beat pulses (opt-in, no audio recorded)
-- 🎙️ **Has a soul of its own** — character-inspired voice, tiny battles, and a personality
-  that quietly *drifts* from how you treat it — so your companion becomes unlike anyone else's
+Every small piece of feedback genuinely helps shape Hearthmon.
 
 
 
