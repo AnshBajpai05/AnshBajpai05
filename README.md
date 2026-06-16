@@ -15,17 +15,30 @@
 </p>
 
 <p align="center"><em>Built to feel like building <strong>with someone</strong> — not being managed by software.</em></p>
-
 ## 🚀 Try the Early Builder Beta
 
-Hearthmon is currently in an **active testing phase** — the final experience is still evolving.
+Hearthmon is currently in an **active testing phase** — the full experience is still evolving.
 
-If you'd like to try Hearthmon early and help shape what it becomes:
+This is the **Early Builder Preview**: a chance to try Hearthmon before the final release and help shape what it becomes.
+
+If you've ever wished coding felt a little less lonely, or wanted a quiet companion beside long nights of building:
+
+> **head to the beta repo and try it now 🌙**
 
 ### 👉 Download the Beta
 
 **Early Builder Build:**
-[Hearthmon Trial Beta](https://github.com/AnshBajpai05/Hearthmon-Trial_Beta?utm_source=chatgpt.com)
+[Hearthmon Early Builder Beta](https://github.com/AnshBajpai05/Hearthmon-Trial_Beta?utm_source=chatgpt.com)
+
+Inside you'll find:
+
+* 🌙 **The current Hearthmon experience**
+* 🧠 **Memory-driven emotional companion system**
+* 🎨 **Classic + Alive rendering modes**
+* 🏕️ **Pokémon habitats, moods, and ambient presence**
+* ⚡ **The newest experiments and ongoing polish**
+
+⚠️ **This is an active testing build** — expect bugs, rough edges, strange moments, and fast iteration while Hearthmon grows.
 
 ### 🛡️ Windows may show:
 
@@ -43,23 +56,25 @@ More info → Run anyway
 
 ### 💛 Help Shape Hearthmon
 
-This is an **Early Builder Preview** — bugs, rough edges, and weird moments are expected while Hearthmon grows.
+Found something weird?
 
-If you:
+Have an idea?
 
-* 🐞 **found a bug**
-* ✨ **have an idea**
-* 💭 **want to discuss something**
-* 💛 **had a moment that felt strangely comforting**
+Want to discuss a moment that felt unexpectedly comforting?
 
-please open a GitHub Issue:
+Please open an issue — even tiny things matter right now.
+
+**You can use GitHub Issues for:**
+
+* 🐞 **Bug reports**
+* ✨ **Feature ideas**
+* 💭 **Discussions & suggestions**
+* 💛 **Moments that genuinely felt magical (or emotionally off)**
 
 👉 **Issues & Feedback:**
 [Hearthmon Issues & Discussion](https://github.com/AnshBajpai05/Hearthmon/issues?utm_source=chatgpt.com)
 
-Every small piece of feedback genuinely helps shape Hearthmon.
-
-
+Every bug fixed, idea shared, and strange little Hearthmon moment helps shape the final experience.
 
 
 
