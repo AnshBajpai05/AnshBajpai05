@@ -81,8 +81,7 @@ Every bug fixed, idea shared, and strange little Hearthmon moment helps shape th
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnshBajpai05&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AnshBajpai05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshBajpai05&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshBajpai05&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnshBajpai05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
