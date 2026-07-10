@@ -8,7 +8,9 @@
 > *An emotionally-aware desktop companion for developers.*
 
 <p align="center">
-  <img src="./assets/hearthmon-status.svg?v=1783614749" width="750"/>
+  <a href="https://github.com/AnshBajpai05/Hearthmon-Trial_Beta">
+    <img src="./assets/hearthmon-status.svg?v=1787592055" width="750"/>
+  </a>
 </p>
 
 <p align="center"><em>Built to feel like building <strong>with someone</strong> — not being managed by software.</em></p>
